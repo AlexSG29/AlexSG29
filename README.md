@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Alex Sánchez! 👋
 
-<!--
-**AlexSG29/AlexSG29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an engineer with a passion for coding, technology, and continuous learning. Here, you'll find my projects, collaborations, and some of the cool stuff I'm working on.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on Python, Django, and web development projects.
+- 💬 Ask me about engineering, coding, and tech innovations.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,r" />
+  </a>
+</p>
+- **Frameworks:** Django, React
+- **Tools:** Git, GitHub, VS Code, Docker
+- **Databases:** PostgreSQL, SQLite
+- 🌱 Learning more about Django, React, and web accessibility.
+
+## 📫 Connect with Me
+
+- [Email](mailto:alexander_sg29@outlook.com))
+
