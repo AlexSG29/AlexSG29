@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an engineer with a passion for coding, technol
 - **Frameworks:** Django, Flask, Tailwind, Bootstrap, Sass
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=django,flask,tailwind,bootstrap,sass,astro" />
   </a>
 </p>
 
