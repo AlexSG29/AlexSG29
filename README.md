@@ -2,8 +2,6 @@
 
 [Visit my portfolio](https://alexsgportfolio.netlify.app)
 
-Welcome to my GitHub profile! I'm an engineer with a passion for coding, technology, and continuous learning. Here, you'll find my projects, collaborations, and some of the cool stuff I'm working on.
-
 ## 🚀 About Me
 
 - 👯 Looking to collaborate on Python, Django and fullstack web development projects, both front and backend.
